@@ -1,0 +1,3 @@
+| Pre-Image Registration Character Accuracy | Pre-Image Registration Exact Match Accuracy | Post-Image Registration Character Accuracy | Post-Image Registration Exact Match Accuracy | Date                       |
+| ----------------------------------------- | ------------------------------------------- | ------------------------------------------ | -------------------------------------------- | -------------------------- |
+| 25.00%                                    | 0.00%                                       | 16.67%                                     | 0.00%                                        | 2025-04-03 22:09:20.307946 |
